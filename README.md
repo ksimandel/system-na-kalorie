@@ -51,3 +51,5 @@ Nahradí ruční zapisování do tabulek nebo papírových deníků a nabídne j
 - **Tělesné statistiky:** datum, váha, procento tuku, obvody těla  
 - **Zprávy / doporučení:** text, autor (trenér), adresát (uživatel)
 
+## Figma
+- https://www.figma.com/design/m0oQVJ7zMEO2nnEh99g6Qi/Fitrack?node-id=0-1&t=5bxQRI45wyipUbDh-1
